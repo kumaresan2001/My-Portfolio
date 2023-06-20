@@ -11,10 +11,7 @@ const Socials = () => {
       >
         <BsLinkedin />
       </a>
-      <a
-        href="https://github.com/kumaresan2001?tab=repositories"
-        target="_blank"
-      >
+      <a href="https://github.com/kumaresan2001" target="_blank">
         <BsGithub />
       </a>
     </div>

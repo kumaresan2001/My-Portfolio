@@ -51,7 +51,7 @@ const projects = [
     source: "Frontend Code",
     backsite: "https://github.com/kumaresan2001/day-42-Backend",
     backsource: "Backend Code",
-    live: "	https://cerulean-syrniki-8290f5.netlify.app",
+    live: "	https://shimmering-pudding-71348b.netlify.app",
     livename: "Live",
   },
 
@@ -96,13 +96,7 @@ const Portfolio = () => {
               <h3>{project.title}</h3>
 
               <small className="portfolio__desc">{project.description}</small>
-              <div style={{ color: "#4db5ff" }}>
-                Tech Stack used:<br></br>{" "}
-                <Button variant="outlined">ReactJs</Button>&nbsp;
-                <Button variant="outlined">ExpressJs</Button>&nbsp;
-                <Button variant="outlined">MongoDB</Button>&nbsp;
-                <Button variant="outlined">Bootstrap</Button>&nbsp;
-              </div>
+
               <div style={{ display: "flex", justifyContent: "space-between" }}>
                 <a
                   href={project.site}
