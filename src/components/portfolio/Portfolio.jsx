@@ -18,7 +18,7 @@ const projects = [
     title: "Equipment Rental Portal",
 
     description:
-      "The admin will be able to manage rental requests, inventory, and pricing, and the applicatio will be integrated with a customer relationship management system.The application should allow users to view product details, view images, easily add and remove products from their rental cart, and pay for their rental. ",
+      "Equipment Rental Portal, User can rent a product using test Razor pay mode. This App have the admin panel also ",
     site: "https://github.com/kumaresan2001/Webcode-Forntend",
     source: "Frontend Code",
     backsite: "https://github.com/kumaresan2001/Webcode-Backend",
@@ -32,7 +32,7 @@ const projects = [
     title: "Inventory Management Tool",
 
     description:
-      "This project is to develop an inventory management web application using React, providing auser-friendly interface for users to manage their inventory..It will allow users to easily add, delete, and modify items in their inventory, track the totalproducts and total quantity bought, sold, out of stock, and available stock, generatecustomizable reports to view the summary of their inventory, define roles and permissions for users to control who can access certain features, and provide an API for developers to integrate with their own applications.",
+      " Inventory management tool analyzes daily product and supply levels to anticipate inventory problems and shortages,developed with User and Admin role ",
     site: "https://github.com/kumaresan2001/Capston-Forntend",
     source: "Frontend Code",
     backsite: "https://github.com/kumaresan2001/day-42-Backend",
@@ -46,7 +46,7 @@ const projects = [
     title: "Food App",
 
     description:
-      "Full Stack Food ordering app with integration of third-party payment processors, developed with User and Admin role.",
+      " Food ordering app with integration of third-party payment processors, developed with User and Admin role.",
     site: "https://github.com/kumaresan2001/day42-Forntend",
     source: "Frontend Code",
     backsite: "https://github.com/kumaresan2001/day-42-Backend",
@@ -58,10 +58,10 @@ const projects = [
   {
     id: 4,
     image: animationData4,
-    title: "Url Shortner",
+    title: "Url Shortener",
 
     description:
-      "An URL shortener is a website that reduces the length of your URL (Uniform Resource Locator). The idea is to minimize the web page address into something that’s easier to remember and track",
+      " URL shortener ,user can redirects the shorter URL to the original webpage",
     site: "https://github.com/kumaresan2001/URL-Shortner-Forntend",
     source: "Frontend Code",
     backsite: "",

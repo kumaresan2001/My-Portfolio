@@ -10,8 +10,8 @@ const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
     emailjs.sendForm(
-      "service_5yvaan2",
-      "template_xxopc1i",
+      "service_r8vb1of",
+      "template_42hhisu",
       form.current,
       "xEAtdlxlOtT-yAsAk"
     );
@@ -46,11 +46,16 @@ const Contact = () => {
         <form ref={form} onSubmit={sendEmail}>
           <input
             type="text"
-            name="name"
+            name="user_name"
             placeholder="Your Full Name"
             required
           />
-          <input type="email" name="email" placeholder="Your Email" required />
+          <input
+            type="email"
+            name="user_email"
+            placeholder="Your Email"
+            required
+          />
           <textarea
             name="message"
             rows="7"

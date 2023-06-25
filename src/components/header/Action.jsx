@@ -5,7 +5,7 @@ const Action = () => {
     <div className="action">
       <a
         className="btn"
-        href="https://drive.google.com/file/d/1QeV9WTiqBtVn_cPIh13zr9QVVBWr6gMd/view?usp=sharing"
+        href="https://drive.google.com/file/d/17UdUlgv_yRCmZfbjzFv5Gabd0QBC8vkk/view?usp=sharing"
         target="_blank"
       >
         Download Resume
