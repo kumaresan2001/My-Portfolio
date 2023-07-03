@@ -6,7 +6,6 @@ const Action = () => {
       <a
         className="btn"
         href="https://drive.google.com/file/d/17UdUlgv_yRCmZfbjzFv5Gabd0QBC8vkk/view?usp=sharing"
-        target="_blank"
       >
         Download Resume
       </a>
