@@ -5,8 +5,8 @@ import { Player } from "@lottiefiles/react-lottie-player";
 import animationData1 from "../../lotties/products.json";
 import animationData2 from "../../lotties/115257-products.json";
 import animationData3 from "../../lotties/17144-food-delivery-boy.json";
-import animationData4 from "../../lotties/url.json";
-import animationData5 from "../../lotties/pokemon.json";
+import animationData4 from "../../lotties/chat.json";
+
 import { BiLinkExternal } from "react-icons/bi";
 import { GoMarkGithub } from "react-icons/go";
 import Button from "@mui/material/Button";
@@ -58,15 +58,15 @@ const projects = [
   {
     id: 4,
     image: animationData4,
-    title: "Url Shortener",
+    title: "Chat App",
 
     description:
-      " URL shortener ,user can redirects the shorter URL to the original webpage",
-    site: "https://github.com/kumaresan2001/URL-Shortner-Forntend",
+      " chat app,you can chat with your friend by creating a room id.",
+    site: "https://github.com/kumaresan2001/Chat-App-Forntend",
     source: "Frontend Code",
-    backsite: "",
+    backsite: "https://github.com/kumaresan2001/Chat-App-Backend",
     backsource: "Backend Code",
-    live: "	https://visionary-brioche-9ff4c9.netlify.app",
+    live: "https://gilded-sawine-ca5347.netlify.app	",
     livename: "Live",
   },
 ];

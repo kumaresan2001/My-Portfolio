@@ -20,10 +20,9 @@ const About = () => {
           <div className="about__cards">
             <article className="about__card">
               <BiMedal className="about__icon" />
-              <h5>Schooling</h5>
+              <h5>School</h5>
               <small>
-                I completed my schooling at government boys higher secondary
-                school
+                I completed my school at government boys higher secondary school
               </small>
             </article>
             <article className="about__card">
