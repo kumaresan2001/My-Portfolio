@@ -1,12 +1,9 @@
 import React from "react";
-
+import RESUME from "./KUMARESAN.pdf";
 const Action = () => {
   return (
     <div className="action">
-      <a
-        className="btn"
-        href="https://drive.google.com/file/d/17UdUlgv_yRCmZfbjzFv5Gabd0QBC8vkk/view?usp=sharing"
-      >
+      <a className="btn" href={RESUME}>
         Download Resume
       </a>
       <a className="btn btn-primary" href="#contact">
