@@ -1,5 +1,5 @@
 import React from "react";
-import RESUME from "./KUMARESAN.pdf";
+import RESUME from "./Kumaresan-CV.pdf";
 const Action = () => {
   return (
     <div className="action">
