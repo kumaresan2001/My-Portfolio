@@ -44,14 +44,19 @@ const About = () => {
             </article>
           </div>
           <p>
-            I completed my B.E. in Mechanical Engineering. Due to certain
-            reasons, I planned to switch my career to the IT industry. So, I
-            decided to level up my skills and shortly after that, I enrolled
-            myself in a full-stack development course. I started to learn
-            full-stack with joy. I have a strong passion for both front-end and
-            back-end development. I love to learn and I am always looking to
-            learn and experiment with new technologies! This is how a Mechanical
-            Engineer turned into a full-stack developer.
+            Hi, I’m Kumaresan T, a MERN Stack Developer. I started my career in
+            Mechanical Engineering, my passion for technology led me to switch
+            to the IT industry. I enrolled in a mern-stack development course
+            and fell in love with both front-end and back-end development.
+          </p>
+
+          <p>
+            I have over a year of experience working with React.js, Redux,
+            JavaScript, Node.js, and MongoDB. I enjoy building web applications
+            and constantly learning new technologies. Right now, I’m working as
+            a Software Developer at Q-Gate Infotech, where I help create
+            interactive web-based solutions. I’m always excited to learn more
+            and grow in this field!
           </p>
 
           <a href="#contact" className="btn btn-primary">
